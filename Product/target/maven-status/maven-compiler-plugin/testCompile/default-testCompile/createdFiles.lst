@@ -1,0 +1,4 @@
+com/kriscfoster/controllertesting/controller/WelcomeControllerIntegrationTest.class
+com/kriscfoster/controllertesting/controller/WelcomeControllerAcceptanceTest.class
+com/kriscfoster/controllertesting/ControllerTestingApplicationTests.class
+com/kriscfoster/controllertesting/controller/WelcomeControllerUnitTest.class
